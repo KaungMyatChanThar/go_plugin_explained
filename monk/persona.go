@@ -5,7 +5,7 @@ import "fmt"
 type person struct{}
 
 func (p person) Talk() {
-	fmt.Println("life is suffering")
+	fmt.Println("ငါသည် မုချသေရမည် အချိန်ပိုင်းသာလိုတော့သည်")
 }
 
 // Persona လို့ခေါ်တဲ့ symbol ကို export လုပ်လိုက်
